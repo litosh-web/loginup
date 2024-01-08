@@ -1,0 +1,39 @@
+1.0.9
+==============
+- became free
+
+1.0.8
+==============
+- fixed register lexicon
+
+1.0.7
+==============
+- fixed error in logincontroller
+
+1.0.6
+==============
+- added LUP_ConfirmRegister snippet. This snippet will improve error with confirmation in Login
+
+1.0.5
+==============
+- fixed photo url in user profile
+
+1.0.4
+==============
+- added "namespace" and "type" for response
+
+1.0.3
+==============
+- added lup_pre_username hook
+
+1.0.2
+==============
+- Fixed some issues
+
+1.0.1
+==============
+- Added protection by modstore.pro
+
+1.0.0
+==============
+- Initial release.
